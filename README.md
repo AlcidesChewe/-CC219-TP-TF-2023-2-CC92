@@ -13,8 +13,6 @@ El objetivo de este proyecto es desarrollar un modelo de aprendizaje automático
 
 El dataset utilizado en este proyecto consta de mensajes extraídos de un servidor de Discord, etiquetados con metadatos como ID del autor, contenido del mensaje, fecha y reacciones. El dataset incluye una variedad de interacciones, permitiendo un análisis detallado del lenguaje y las emociones expresadas en un entorno de comunicación en línea.
 
-Se adjunta un archivo PDF con una descripción más detallada y estadísticas descriptivas del dataset.
-
 ## Conclusiones
 
 A través del análisis de sentimientos utilizando el modelo VADER de NLTK, hemos podido identificar tendencias negativas en los mensajes del servidor. Nuestro modelo muestra una capacidad prometedora para detectar contenido negativo y puede ser un primer paso hacia una herramienta automatizada de moderación.
